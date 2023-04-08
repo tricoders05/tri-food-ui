@@ -2,11 +2,11 @@
 
 Welcome to tri-food-ui!
 
-#How to use this project
+## How to use this project
 
--Make sure you have node.js in your machine and can able to run node -v and npm -v without any issue.
+- Make sure you have node.js in your machine and can able to run node -v and npm -v without any issue.
 
-####Clone & Install
+#### Clone & Install
 
 ```shell
 $ Fork the repo https://github.com/tricoders05/tri-food-ui
@@ -20,7 +20,7 @@ $ git push origin
 $ npm install
 ```
 
-####To run the app in development mode
+#### To run the app in development mode
 
 ```shell
 $ npm start
